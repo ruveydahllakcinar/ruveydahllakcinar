@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-#Tech I Use
+#TECH I USE
 
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
@@ -32,7 +32,7 @@
          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" width="30" height="30">
 
 <br/>
-# SPEAKER
+#SPEAKER
 <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
 </span>

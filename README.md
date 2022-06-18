@@ -1,14 +1,9 @@
 ### Hi there, I'm Ruveyda Hilal AKÇINAR :star:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+- 🔭 I'm currently working on...
+-🌱 I am currently learning: ASPNET
+-👯 I'm interested community: Women Techmakers
+-💬 You can ask questions
+-📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/
 
 ## Backend Developer | WTM Ambassador
 
@@ -33,11 +28,11 @@
     <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" height="30">
      <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="30" height="30">
          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30" height="30">
+         <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" width="30" height="30">
 
 <br/>
 # SPEAKER
-
-
+📣 <p><a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s"></a>GDSC BANDIRMA UNIVERSTY: HTML-CSS Education </p>
 <br/>
 <details>
 <summary>:bulb: Github Stats</summary>
@@ -58,6 +53,6 @@
 [instagram]: https://www.instagram.com/ruveydaakcinar/
 [github]: https://github.com/ruveydahllakcinar
 
-
+🎀📢
 
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Ruveyda Hilal AKÇINAR :star:
+<h1 style="center"> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
 <h3> Backend Developer | WTM Ambassador </h3>
 <ul>
 <li>🔭 I'm currently working on...</li>

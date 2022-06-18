@@ -12,7 +12,7 @@
 
 <h2>REACH OUT TO ME</h2>
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" style="backgroundcolor:red" />][twitter]
+[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" style="background:red;" />][twitter]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" />][github]
@@ -63,7 +63,4 @@
 [linkedin]: https://www.linkedin.com/in/ruveydahilalakcinar/
 [instagram]: https://www.instagram.com/ruveydaakcinar/
 [github]: https://github.com/ruveydahllakcinar
-
-🎀📢
-
 

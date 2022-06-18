@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**ruveydahllakcinar/ruveydahllakcinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there, I'm Ruveyda Hilal AKÇINAR :star:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,15 +7,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### Hi there, I'm Ruveyda Hilal AKÇINAR :star:
+
+
 
 ## Backend Developer | WTM Ambassador
 
 
 ### REACH OUT TO ME
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
+[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" style="backgroundcolor:red " />][twitter]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/github.svg" align="left" />][github]
@@ -42,8 +36,7 @@ Here are some ideas to get you started:
 
 <br/>
 # SPEAKER
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <br/>
 <details>

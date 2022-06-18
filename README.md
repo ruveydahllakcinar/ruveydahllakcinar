@@ -1,10 +1,11 @@
 ### Hi there, I'm Ruveyda Hilal AKÇINAR :star:
-- 🔭 I'm currently working on...
--🌱 I am currently learning: ASPNET
--👯 I'm interested community: Women Techmakers
--💬 You can ask questions
--📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/
-
+<ul>
+<li>🔭 I'm currently working on...</li>
+<li>🌱 I am currently learning: ASPNET</li>
+<li>👯 I'm interested community: Women Techmakers</li>
+<li>💬 You can ask questions</li>
+<li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
+<ul>
 ## Backend Developer | WTM Ambassador
 
 
@@ -33,9 +34,15 @@
 <br/>
 # SPEAKER
 <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
+📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
 </span>
- 
+<span class="nav-item">
+📣 <a href="https://www.youtube.com/watch?v=OB3SvfLuxWQ&t=879s" target="_blank">GDSC IZMIR KATIP CELEBI UNIVERSTY: Firebase 101</a>
+</span>
+ <span class="nav-item">
+📣 <a href="https://www.youtube.com/watch?v=L1RxbIL8Yn0" target="_blank">GDSC AKDENIZ UNIVERSTY: Firebase Giriş</a>
+</span>
+
 <br/>
 <details>
 <summary>:bulb: Github Stats</summary>

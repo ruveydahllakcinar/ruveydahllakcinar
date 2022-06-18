@@ -32,10 +32,10 @@
 
 <br/>
 # SPEAKER
-📣 <p><a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s"></a>GDSC BANDIRMA UNIVERSTY: HTML-CSS Education </p>
 <span class="nav-item">
- <a class="btn-solid-vs" href="#">Microsoft Visual C++ 2015-17-19 </a>
- </span>
+📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
+</span>
+ 
 <br/>
 <details>
 <summary>:bulb: Github Stats</summary>

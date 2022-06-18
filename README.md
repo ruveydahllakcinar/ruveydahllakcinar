@@ -1,4 +1,5 @@
-<h1 style="center"> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
+<span>
+<h1> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
 <h3> Backend Developer | WTM Ambassador </h3>
 <ul>
 <li>🔭 I'm currently working on...</li>
@@ -7,7 +8,7 @@
 <li>💬 You can ask questions</li>
 <li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
 <ul>
-
+</span>
 <br/>
 
 <hr>
@@ -21,7 +22,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" width="30" height="30">
 
 <br/>
  <hr>

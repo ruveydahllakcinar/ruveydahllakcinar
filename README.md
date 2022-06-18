@@ -1,4 +1,5 @@
 ### Hi there, I'm Ruveyda Hilal AKÇINAR :star:
+<h3> Backend Developer | WTM Ambassador </h3>
 <ul>
 <li>🔭 I'm currently working on...</li>
 <li>🌱 I am currently learning: ASPNET</li>
@@ -6,10 +7,7 @@
 <li>💬 You can ask questions</li>
 <li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
 <ul>
- 
-<h2> Backend Developer | WTM Ambassador </h2>
 
-<br/>
 <br/>
 
 <h2>REACH OUT TO ME</h2>
@@ -59,10 +57,10 @@
 </li>
      </ul>
 <br/>
-
+<span>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ruveydahllakcinar&show_icons=true&theme=radical">
-
+</span>
 
 
 <summary>:bulb: Most Used Languages</summary>

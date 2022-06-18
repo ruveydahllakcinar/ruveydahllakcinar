@@ -34,16 +34,23 @@
 
 <br/>
 <h2>SPEAKER</h2>
+ <ul>
+  <li>
 <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
 </span>
+   </li>
+   <li>
 <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=OB3SvfLuxWQ&t=879s" target="_blank">GDSC IZMIR KATIP CELEBI UNIVERSTY: Firebase 101</a>
 </span>
+    </li>
+    <li>
  <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=L1RxbIL8Yn0" target="_blank">GDSC AKDENIZ UNIVERSTY: Firebase Giriş</a>
 </span>
-
+</li>
+     </ul>
 <br/>
 <details>
 <summary>:bulb: Github Stats</summary>
@@ -54,9 +61,6 @@
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydahllakcinar&layout=compact">
 </details>
-
-
-
 
 
 [twitter]: https://twitter.com/RuveydaAkcinar

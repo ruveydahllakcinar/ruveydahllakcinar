@@ -6,10 +6,11 @@
 <li>💬 You can ask questions</li>
 <li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
 <ul>
-## Backend Developer | WTM Ambassador
+ 
+<h2Backend Developer | WTM Ambassador</h2>
 
 
-### REACH OUT TO ME
+<h2>REACH OUT TO ME</h2>
 
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" style="backgroundcolor:red" />][twitter]
 [<img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
@@ -19,7 +20,7 @@
 <br/>
 <br/>
 
-#TECH I USE
+<h2>TECH I USE</h2>
 
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
@@ -32,7 +33,7 @@
          <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" width="30" height="30">
 
 <br/>
-#SPEAKER
+<h2>SPEAKER</h2>
 <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
 </span>

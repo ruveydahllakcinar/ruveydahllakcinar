@@ -1,7 +1,4 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content---------" class="anchor" aria-hidden="true" href="#--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-  <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/d2415ffd45584b4eae589c3ee30f9d7beafbea07a87590a1dcaa381cadb92d61/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f212bf09f918b3b492b616d2bc4b072656d2b4bc3964dc39c5243c39c2663656e7465723d747275652673697a653d3235" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Ruveyda+Hilal+AKÇINAR&amp;center=true&amp;size=25" style="max-width: 100%;">
-  </a>
+
 <h1> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
 <h3> Backend Developer | WTM Ambassador </h3>
 <ul>
@@ -12,14 +9,9 @@
 <li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
 <ul>
 <br/>
-<hr>
- 
-</h1>
 
- 
 <hr>
 <h2>TECH I USE</h2>
-
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" height="30">
@@ -33,7 +25,7 @@
  <hr>
 <h2>SPEAKER</h2>
  <ul>
-  <li>
+ <li>
 <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
 </span>

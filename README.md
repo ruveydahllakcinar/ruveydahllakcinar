@@ -25,18 +25,27 @@
 <h2>SPEAKER</h2>
  <ul>
  <li>
+ <span class="nav-item">
+📣 <a href="https://www.instagram.com/p/ClG5sHaMqBB/" target="_blank">DUZCE UNIVERSITY: "What is Firebase?" DEVFEST 2022</a>
+</span>
+  <span class="nav-item">
+📣 <a href="https://www.instagram.com/p/Ca37iSgA762/" target="_blank">DUZCE UNIVERSITY: Dijital Dünyada Kadınlar</a>
+</span>
+  <span class="nav-item">
+📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC İZMIR KATIP ÇELEBI UNIVERSTY: Firebase 101</a>
+</span>
 <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC BANDIRMA UNIVERSTY: HTML-CSS Education</a>
+📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">KODLUYORUZ :Yazılım Sektöründe Cinsiyet Eşitsizliği</a>
 </span>
    </li>
    <li>
 <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=OB3SvfLuxWQ&t=879s" target="_blank">GDSC IZMIR KATIP CELEBI UNIVERSTY: Firebase 101</a>
+📣 <a href="https://www.youtube.com/watch?v=OB3SvfLuxWQ&t=2s" target="_blank">GDSC IZMIR KATIP CELEBI UNIVERSTY: Firebase 101</a>
 </span>
     </li>
     <li>
  <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=L1RxbIL8Yn0" target="_blank">GDSC AKDENIZ UNIVERSTY: Firebase Giriş</a>
+📣 <a href="https://www.youtube.com/watch?v=L1RxbIL8Yn0&t=1s" target="_blank">GDSC AKDENIZ UNIVERSTY: Firebase Giriş</a>
 </span>
 </li>
      </ul>

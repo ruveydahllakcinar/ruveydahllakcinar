@@ -28,12 +28,18 @@
  <span class="nav-item">
 📣 <a href="https://www.instagram.com/p/ClG5sHaMqBB/" target="_blank">DUZCE UNIVERSITY: "What is Firebase?" DEVFEST 2022</a>
 </span>
+  </li>
+   <li>
   <span class="nav-item">
 📣 <a href="https://www.instagram.com/p/Ca37iSgA762/" target="_blank">DUZCE UNIVERSITY: Dijital Dünyada Kadınlar</a>
 </span>
+     </li>
+   <li>
   <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC İZMIR KATIP ÇELEBI UNIVERSTY: Firebase 101</a>
 </span>
+     </li>
+   <li>
 <span class="nav-item">
 📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">KODLUYORUZ :Yazılım Sektöründe Cinsiyet Eşitsizliği</a>
 </span>

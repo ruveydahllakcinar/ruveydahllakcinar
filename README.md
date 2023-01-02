@@ -26,6 +26,21 @@
  <ul>
  <li>
  <span class="nav-item">
+📣 <a href="https://www.instagram.com/p/CmbkPUNsgQ6/" target="_blank">DEVFEST WOMEN 2022: "Unleash the Power of Firebase: A Beginner's Guide"</a>
+</span>
+  </li>
+  <li>
+ <span class="nav-item">
+📣 <a href="https://www.instagram.com/p/CmbkPUNsgQ6/" target="_blank">GDG İZMİR DEVFEST 2022: "What is Firebase?"</a>
+</span>
+  </li>
+  <li>
+ <span class="nav-item">
+📣 <a href="https://www.youtube.com/watch?v=pGcwnL2Wc3U" target="_blank">GDSC GALATASARAY UNIVERSITY: "What is Firebase?"</a>
+</span>
+  </li>
+ <li>
+ <span class="nav-item">
 📣 <a href="https://www.instagram.com/p/ClG5sHaMqBB/" target="_blank">DUZCE UNIVERSITY: "What is Firebase?" DEVFEST 2022</a>
 </span>
   </li>

@@ -2,8 +2,8 @@
 <h1> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
 <h3> Backend Developer | WTM Ambassador </h3>
 <ul>
-<li>🌱 I am currently learning: ASPNET</li>
-<li>👯 I'm interested community: Women Techmakers</li>
+<li>🌱 I am currently learning: Flutter</li>
+<li>👯 I'm interested community: Women Techmakers, Google Developer Groups</li>
 <li>💬 You can ask questions</li>
 <li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
 <ul>

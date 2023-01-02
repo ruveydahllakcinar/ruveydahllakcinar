@@ -36,7 +36,7 @@
   </li>
   <li>
  <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=pGcwnL2Wc3U" target="_blank">GDSC GALATASARAY UNIVERSITY: "What is Firebase?"</a>
+📣 <a href="https://www.youtube.com/watch?v=pGcwnL2Wc3U" target="_blank">GDSC GALATASARAY UNIVERSITY: "Firebase-101"</a>
 </span>
   </li>
  <li>

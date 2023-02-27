@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
 <h3> Backend Developer | WTM Ambassador </h3>
 <ul>
-<li>🌱 I am currently learning: Flutter</li>
+<li>🌱 I am currently learning: ASP.NET</li>
 <li>👯 I'm interested community: Women Techmakers, Google Developer Groups</li>
 <li>💬 You can ask questions</li>
 <li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
@@ -15,7 +15,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="30" height="30">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30" height="30">
@@ -24,6 +23,11 @@
  <hr>
 <h2>SPEAKER</h2>
  <ul>
+<li>
+ <span class="nav-item">
+📣 <a href="https://www.instagram.com/p/CnSJb9esmOU/" target="_blank">#IamRemerkable</a>
+</span>
+  </li>
  <li>
  <span class="nav-item">
 📣 <a href="https://www.instagram.com/p/CmbkPUNsgQ6/" target="_blank">DEVFEST WOMEN 2022: "Unleash the Power of Firebase: A Beginner's Guide"</a>

@@ -1,95 +1,50 @@
-
-<h1> Hi there, I'm Ruveyda Hilal AKÇINAR :star:</h1>
-<h3> Backend Developer | WTM Ambassador </h3>
-<ul>
-<li>🌱 I am currently learning: ASP.NET</li>
-<li>👯 I'm interested community: Women Techmakers, Google Developer Groups</li>
-<li>💬 You can ask questions</li>
-<li>📫 How to reach me: https://www.linkedin.com/in/ruveydahilalakcinar/</li>
-<ul>
-<br/>
-
-<hr>
-<h2>LANGUAGES and TOOLS</h2>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" width="30" height="30">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30" height="30">
-
-<br/>
- <hr>
-<h2>SPEAKER</h2>
- <ul>
-<li>
- <span class="nav-item">
-📣 <a href="https://www.instagram.com/p/CnSJb9esmOU/" target="_blank">#IamRemerkable</a>
-</span>
-  </li>
- <li>
- <span class="nav-item">
-📣 <a href="https://www.instagram.com/p/CmbkPUNsgQ6/" target="_blank">DEVFEST WOMEN 2022: "Unleash the Power of Firebase: A Beginner's Guide"</a>
-</span>
-  </li>
-  <li>
- <span class="nav-item">
-📣 <a href="https://www.instagram.com/p/CmbkPUNsgQ6/" target="_blank">GDG İZMİR DEVFEST 2022: "What is Firebase?"</a>
-</span>
-  </li>
-  <li>
- <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=pGcwnL2Wc3U" target="_blank">GDSC GALATASARAY UNIVERSITY: "Firebase-101"</a>
-</span>
-  </li>
- <li>
- <span class="nav-item">
-📣 <a href="https://www.instagram.com/p/ClG5sHaMqBB/" target="_blank">DUZCE UNIVERSITY: "What is Firebase?" DEVFEST 2022</a>
-</span>
-  </li>
-   <li>
-  <span class="nav-item">
-📣 <a href="https://www.instagram.com/p/Ca37iSgA762/" target="_blank">DUZCE UNIVERSITY: Dijital Dünyada Kadınlar</a>
-</span>
-     </li>
-   <li>
-  <span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">GDSC İZMIR KATIP ÇELEBI UNIVERSTY: Firebase 101</a>
-</span>
-     </li>
-   <li>
-<span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=MegzXWHmSJY&t=4704s" target="_blank">KODLUYORUZ :Yazılım Sektöründe Cinsiyet Eşitsizliği</a>
-</span>
-   </li>
-  <li>
-<span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=aViuU-KyqEg" target="_blank">GDSC BANDIRMA UNIVERSTY:HTML-CSS EDUCATION</a>
-</span>
- </li>
-<li>
-<span class="nav-item">
-📣 <a href="https://www.youtube.com/watch?v=L1RxbIL8Yn0&t=1s" target="_blank">GDSC AKDENIZ UNIVERSTY: Firebase Giriş</a>
-</span>
-</li>
-     </ul>
-<br/>
- <hr>
-<h2>CONTACT</h2>
-<a href="https://www.linkedin.com/in/ruveydahilalakcinar/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://www.instagram.com/ruveydaakcinar/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/e60430fd16bc6a47fb6c6032da4d04e30952e849e98e7ed5c3e5cfc6b48a40bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d726564" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=red" style="max-width: 100%;">
-</a>
- <a href="https://twitter.com/RuveydaAkcinar" rel="nofollow">
-<img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Ruveyda+Hilal +AKÇINAR&center=true&size=25">
+  </a>
+</h1>
 
 
-<article>
-<h2 style="text-align:center">:bulb: Most Used Languages</h2>
- <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydahllakcinar&layout=compact">
-</article>
+### Hi there, I am Ruveyda<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+💙Ambasador at Women Techmakers <br>
+🧡 Duzce Organizer at Google Developers Groups <br>
+💚 Facitilator at #IamRemarkable
+
+<p align="center">
+<br>
+
+<h2 align="center">
+Who am I 💁‍♀️
+</h2>
+I have been working in the field of Web Developer for 3 years. Specifically, I working on .Net Core projects. I am developing .net projects. Also, I experienced PHP and Python. I have more than 3 years of community experience with public speaking, blogging and experience-sharing skills. 
+</p>
+<center>
+<br>
+
+<h2 align="center">
+Connect with me 
+</h2>
+<p align="center">
+  You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
+📌 <a href="http://ruveydaakcinar.com.tr/">ruveydaakcinar.com</a> 📌
+
+</p>  
+<br>
+
+<p align="center">
+<a href="https://linkedin.com/in/ruveydahllakcinar" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> &nbsp;
+<a href="https://www.medium.com/ruveydaakcinar/?hl=tr" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
+</a> &nbsp;
+<a href="https://twitter.com/ruveydaakcinar" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> &nbsp;
+<a href="https://www.instagram.com/ruveydaakcinar" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=red alt=instagram style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+</p>  
+  
+</div>  

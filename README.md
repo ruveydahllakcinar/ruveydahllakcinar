@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=85F780&width=435&lines=Hello!;+I+am+Ruveyda+Hilal+Ak%C3%A7%C4%B1nar;I+am+a+Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=85F780&width=435&lines=Hello!;+I+am+Ruveyda+Hilal+Ak%C3%A7%C4%B1nar;I+am+a+QA Engineer" alt="Typing SVG" /></a>
 
 ### Hi there, I am Ruveyda<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 💙Ambasador at Women Techmakers <br>

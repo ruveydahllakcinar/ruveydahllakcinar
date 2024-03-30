@@ -12,7 +12,7 @@
 <h2 align="center">
 Who am I 💁‍♀️
 </h2>
-I have been working in the field of Web Developer for 3 years. Specifically, I working on .Net Core projects. I am developing .net projects. Also, I experienced PHP and Python. I have more than 3 years of community experience with public speaking, blogging and experience-sharing skills. 
+I work in the field of Software Test Engineer . I have experience in automating functional tests using technologies such as Java, Selenium, and Cucumber, as well as managing manual test processes. Additionally, I am proficient in conducting API tests. I am dedicated to improving software quality and constantly striving to enhance my skills. My focus is on contributing to the success of our team by delivering the best possible outcomes.
 </p>
 <center>
 <br>
@@ -22,7 +22,7 @@ Connect with me
 </h2>
 <p align="center">
   You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
-📌 <a href="http://ruveydaakcinar.com.tr/">ruveydaakcinar.com</a> 📌
+📌 <a href="http://ruveydaakcinar.com/">ruveydaakcinar.com</a> 📌
 
 </p>  
 <br>
